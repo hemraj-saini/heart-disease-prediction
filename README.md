@@ -120,10 +120,10 @@ heart-disease-prediction/
 │
 ├── app.py
 ├── best_model.joblib
-├── Heart_Disease_Prediction.ipynb
+├── Heart_Disease.ipynb
+├── heart_disease_data.csv
 ├── requirements.txt
-├── README.md
-└── feature_importance.png
+└──  README.md
 ```
 
 ---
