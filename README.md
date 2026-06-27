@@ -1,5 +1,8 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
+## Live Demo
+
+[🚀 Launch Application](https://heart-disease-3rd.streamlit.app/)
 ## Overview
 
 This project predicts whether a patient has heart disease using machine learning. Multiple classification algorithms were compared, hyperparameter tuning was performed, and the best CatBoost model was deployed using Streamlit.
